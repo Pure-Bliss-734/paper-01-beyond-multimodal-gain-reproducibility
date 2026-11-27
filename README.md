@@ -4,4 +4,8 @@
 
 NHANES, MELD and CrossCheck analyses and simulations can be rerun from the supplied compact inputs.
 
-The release contains the manuscript PDF and the reproduction ZIP. Material-specific licenses and source notices are supplied with the reproduction materials.
+The release contains the manuscript PDF and the reproduction ZIP.
+
+## License
+
+The authors license their manuscript under **CC BY 4.0** and their code under **MIT**. See the [license scope](LICENSE.md) for research records and third-party materials.
